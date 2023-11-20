@@ -1,1 +1,1 @@
-# cell-phone-detector.
+# CELL-PHONE-DETECTOR.
